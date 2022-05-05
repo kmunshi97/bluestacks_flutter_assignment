@@ -1,0 +1,30 @@
+{
+    "language": "English",
+    "@language": {
+        "description": "English language" 
+    },
+   
+   "home": "Home",
+   "selectedlanguage": "Selected language",
+   "logout": "Logout",
+   "recommendedforyou": "Recommended for you",
+   "played": "Tournaments played",
+   "won": "Tournaments won",
+   "winpercent": "Winning percentage",
+   "elo": "Elo rating",
+   "username": "Username",
+   "password": "Password",
+   "required": "Required",
+   "passless": "Password must be atleast 3 characters long.",
+   "passmore": "Password must be maximum 11 characters long.",
+   "userless": "Username must be atleast 3 characters long.",
+   "usermore": "Username must be maximum 11 characters long.",
+   "unable": "Unable to login?",
+   "forgot": "Forgot Password",
+   "signup": "Sign-up",
+   "login": "Login",
+   "snack1": "Error: Username and Password are required.",
+   "snack2": "Error: Username and/or password entered is incorrect.",
+   "snack3": "Feature out of scope of the coding assignment.",
+   "welcome": "Welcome"
+   }

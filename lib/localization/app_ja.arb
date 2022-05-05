@@ -1,0 +1,32 @@
+{
+    "language": "Japanese",
+    "@language": {
+        "description": "English language" 
+    },
+   
+    "home": "家",
+    "selectedlanguage": "選択した言語",
+    "logout": "ログアウト",
+    "recommendedforyou": "あなたにおすすめ",
+    "played": "トーナメントが",
+    "won": "トーナメント優勝",
+    "winpercent": "勝率",
+    "elo": "イロレーティング",
+
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "required": "必要",
+    "passless": "パスワードは少なくとも3文字の長さである必要があります。",
+    "passmore": "パスワードは最大11文字である必要があります。",
+    "userless": "ユーザー名は少なくとも3文字の長さである必要があります。",
+    "usermore": "ユーザー名は最大11文字の長さである必要があります。",
+    "unable": "ログイン？",
+    "forgot": "パスワードをお忘れですか",
+    "signup": "サインアップ",
+    "login": "ログイン",
+
+    "snack1": "エラー：ユーザー名とパスワードが必要です。",
+    "snack2": "エラー：入力されたユーザー名またはパスワード、あるいはその両方が正しくありません。",
+    "snack3": "コーディング割り当ての範囲外の機能。",
+    "welcome": "いらっしゃいませ"
+}

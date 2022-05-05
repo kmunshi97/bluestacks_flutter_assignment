@@ -1,0 +1,39 @@
+name: bluestacks_assignment
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  animated_splash_screen: ^1.2.0
+  bloc: ^8.0.3
+  cached_network_image: ^3.2.0
+  connectivity_plus: ^2.3.0
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.6
+  equatable: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.1
+  flutter_localizations:
+    sdk: flutter
+  flutter_services_binding: ^0.1.0
+  hydrated_bloc: ^8.1.0
+  intl: ^0.17.0
+  logger: ^1.1.0
+  path_provider: ^2.0.9
+  sizer: ^2.0.15
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/images/
